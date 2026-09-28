@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:E8632A,100:FF8C42&height=220&section=header&text=QuizyyWilla%202.0&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=A%20Premium%20Flutter%20Quiz%20Application&descSize=20&descAlignY=60&animation=fadeIn" alt="QuizyyWilla Banner" width="100%"/>
 </a>
 
-### 🧠 Play. Compete. Win. — A production-grade Flutter quiz experience built live on YouTube.
+### 🧠 Play. Compete. Win. — A production-grade Flutter quiz.
 
 <br/>
 
