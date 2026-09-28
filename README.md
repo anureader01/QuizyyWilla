@@ -536,7 +536,7 @@ If QuizyyWilla helped you learn or build something, here's how you can show love
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,50:E8632A,100:1B2A4A&height=140&section=footer&text=Built%20with%20❤️%20using%20Flutter%20by%20Code%20With%20Dhruv&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,50:E8632A,100:1B2A4A&height=140&section=footer&text=Built%20with%20❤️%20using%20Flutter%20by%20Shantanu%20Kumar&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="Footer" width="100%"/>
 
 <sub>⭐ If you made it this far, drop a star — it genuinely helps! ⭐</sub>
 
