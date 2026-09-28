@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:E8632A,100:FF8C42&height=220&section=header&text=QuizyyWilla%202.0&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=A%20Premium%20Flutter%20Quiz%20Application&descSize=20&descAlignY=60&animation=fadeIn" alt="QuizyyWilla Banner" width="100%"/>
 </a>
 
-### 🧠 Play. Compete. Win. — A production-grade Flutter quiz.
+### 🧠 Play. Compete. Win. — A production-grade Flutter quiz experience built live on 
 
 <br/>
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/⭐_GitHub_Repository-1B2A4A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 </a>
 &nbsp;
-<a href="https://youtu.be/33IWXHx9dus">
+<a href="">
 </a>
 
 <br/><br/>
@@ -56,7 +56,7 @@
 
 Under the hood it showcases **production-ready Flutter architecture**: clean layering, the repository pattern, reusable widgets, responsive UI, **Supabase** authentication & database, REST integration, and local state persistence.
 
-This repository accompanies the **Code With Dhruv** YouTube course, where the entire app is built **from scratch**, with every concept explained in detail.
+This repository accompanies the original Flutter course, where the entire app is built **from scratch**, with every concept explained in detail.
 
 </td>
 <td width="40%" valign="top">
@@ -374,37 +374,7 @@ By building QuizyyWilla from scratch, you'll walk away knowing how to:
 <br/>
 
 <!-- ============================================================= -->
-<!--                                              -->
-<!-- ============================================================= -->
 
-## 📺 Watch the Full Course
-
-<div align="center">
-
-
-
-
-
-<br/>
-
-This repo is the companion to the **most comprehensive Flutter course of 2026** by **Shantanu Kumar** — a 4-part journey from Dart fundamentals to publishing real apps on the Play Store & App Store. Every line of QuizyyWilla is written and explained live.
-
-<div align="center">
-
-<a href="https://youtu.be/33IWXHx9dus">
-  <img src="https://img.shields.io/badge/▶_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-&nbsp;
-<a href="https://github.com/anureader01/QuizyyWilla">
-  <img src="https://img.shields.io/badge/⭐_Star_the_Repo-1B2A4A?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ============================================================= -->
-<!--                       ROADMAP                                 -->
 <!-- ============================================================= -->
 
 ## 🗺️ Roadmap
@@ -523,7 +493,7 @@ If QuizyyWilla helped you learn or build something, here's how you can show love
 
 | ⭐ | 🍴 | 📺 | 👍 | 💬 |
 | :---: | :---: | :---: | :---: | :---: |
-| **Star** the repo | **Fork** it | **Subscribe** on YouTube | **Like** the video | **Leave** feedback |
+| **Star** the repo | **Fork** it | **Leave** feedback |
 
 <br/>
 
@@ -546,17 +516,11 @@ If QuizyyWilla helped you learn or build something, here's how you can show love
 <a href="https://github.com/anureader01">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://youtu.be/33IWXHx9dus">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+<a href="">
 </a>
-<a href="https://www.instagram.com/dhruvarne/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://discord.gg/Dn8UBu946A">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://t.me/cwdflutter">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+
+
+<a href="">
 </a>
 <a href="https://github.com/anureader01">
   <img src="https://img.shields.io/badge/Portfolio-E8632A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -577,3 +541,4 @@ If QuizyyWilla helped you learn or build something, here's how you can show love
 <sub>⭐ If you made it this far, drop a star — it genuinely helps! ⭐</sub>
 
 </div>
+
