@@ -374,28 +374,20 @@ By building QuizyyWilla from scratch, you'll walk away knowing how to:
 <br/>
 
 <!-- ============================================================= -->
-<!--                   YOUTUBE COURSE                              -->
+<!--                                              -->
 <!-- ============================================================= -->
 
 ## 📺 Watch the Full Course
 
 <div align="center">
 
-<a href="https://youtu.be/33IWXHx9dus">
-  <img src="https://img.shields.io/badge/▶_WATCH_THE_FULL_FLUTTER_COURSE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the Course"/>
-</a>
 
-<br/><br/>
 
-<a href="https://youtu.be/33IWXHx9dus">
-  <img src="assets/screenshots/thumbnail.png" width="640" alt="Course Thumbnail"/>
-</a>
 
-</div>
 
 <br/>
 
-This repo is the companion to the **most comprehensive Flutter course of 2026** by **Code With Dhruv** — a 4-part journey from Dart fundamentals to publishing real apps on the Play Store & App Store. Every line of QuizyyWilla is written and explained live.
+This repo is the companion to the **most comprehensive Flutter course of 2026** by **Shantanu Kumar** — a 4-part journey from Dart fundamentals to publishing real apps on the Play Store & App Store. Every line of QuizyyWilla is written and explained live.
 
 <div align="center">
 
